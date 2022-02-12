@@ -23,6 +23,6 @@ Below is an incomplete list of the various works that this game directly uses th
 - Puella Magi Madoka Magica
 - Plants vs. Zombies
 
-...and many more that I either do not know or can not remember.   
+...and many more that I either do not know or cannot remember.   
 
 ### Enjoy!
