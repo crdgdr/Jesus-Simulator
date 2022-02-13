@@ -16,6 +16,8 @@ Below is an incomplete list of the various works that this game directly uses th
 - The Elder Scrolls: Morrowind, Oblivion, Skyrim
 - Baldur's Gate I & II
 - Planescape: Torment
+- Dune
+- Fate/stay night
 
 ##### Graphics:
 - South Park
